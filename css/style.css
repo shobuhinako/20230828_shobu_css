@@ -1,0 +1,18 @@
+.relative__img {
+    text-align: right;
+}
+
+img {
+    width: 50%;
+}
+
+.relative {
+    position: relative;
+}
+
+h1 {
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
